@@ -1,0 +1,6 @@
+Require 
+	mysql-connector-net-6.9.12
+	Xampp or Wamp
+
+Import 
+	localhost/phpmyadmin rtc.sql
